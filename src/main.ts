@@ -7,3 +7,4 @@ app.innerHTML = `
   <span>Revisar la consola de JavaScript</span>
 `
 
+
